@@ -2,16 +2,13 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://osdahd.github.io/ligtvizlesene/sitemap.xml
+Sitemap: https://www.naziftvlink.one/sitemap.xml
 
-# Arama motorları için
+# Ana arama motorları
 User-agent: Googlebot
 Allow: /
 
 User-agent: Bingbot
-Allow: /
-
-User-agent: Slurp
 Allow: /
 
 # Kötü botları engelle
@@ -19,10 +16,4 @@ User-agent: AhrefsBot
 Disallow: /
 
 User-agent: SemrushBot
-Disallow: /
-
-User-agent: MJ12bot
-Disallow: /
-
-User-agent: DotBot
 Disallow: /
